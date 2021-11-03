@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GDrive</string>
+    <string name="sync">Sync</string>
+    <string name="one_tap">One Tap</string>
+    <string name="google_sign_in">Google Sign-In</string>
+    <string name="default_web_client_id">744639807542-8cr50m90j4fttibbig85avto953muutm.apps.googleusercontent.com</string>
+</resources>
